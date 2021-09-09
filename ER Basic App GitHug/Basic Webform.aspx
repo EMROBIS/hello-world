@@ -12,6 +12,8 @@
             <% ER_Basic_App_GitHug.Class1 tp = new ER_Basic_App_GitHug.Class1(); %>
 
             <%=tp.Name %>
+
+            
         </div>
     </form>
 </body>
