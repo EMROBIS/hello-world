@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ER Basic App GitHug", "ER Basic App GitHug\ER Basic App GitHug.csproj", "{20F1F254-D292-498C-BAFF-797EEE299B5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAppTest", "BasicAppTest\BasicAppTest.csproj", "{8F447876-5012-4995-A64F-93FF989D3E54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20F1F254-D292-498C-BAFF-797EEE299B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F1F254-D292-498C-BAFF-797EEE299B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F1F254-D292-498C-BAFF-797EEE299B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F1F254-D292-498C-BAFF-797EEE299B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F447876-5012-4995-A64F-93FF989D3E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F447876-5012-4995-A64F-93FF989D3E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F447876-5012-4995-A64F-93FF989D3E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F447876-5012-4995-A64F-93FF989D3E54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42973CAF-CB9E-47D4-8BD6-A0111BC78E97}
+	EndGlobalSection
+EndGlobal
